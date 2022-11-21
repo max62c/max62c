@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime CATHELAIN
 ========================================================================================================================================
 
-Développeur Web & Web Mobile
+Web & Mobile Web Developer
 ----------------------------
 
 I've been learning to code on my own for as long as the internet has existed, after changing careers. I started with HTML, then CSS but I really found a passion for FullStack development.
