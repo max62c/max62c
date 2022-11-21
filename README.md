@@ -13,8 +13,7 @@ I've been learning to code on my own for as long as the internet has existed, af
 *   🧠  I'm learning ANGULAR, HTML, CSS, BOOTSTRAP, SASS, TYPESCRIPT
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I am autonomous, curious, motivated
-<a href="https://www.github.com/max62c" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/max62c?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/max62c" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/max62c?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
