@@ -7,7 +7,7 @@ Web & Mobile Web Developer
 I've been learning to code on my own for as long as the internet has existed, after changing careers. I started with HTML, then CSS but I really found a passion for FullStack development.
 
 *   🌍  I'm based in Orléans
-*   🖥️  See my portfolio at [My Portfolio](http://https://max62c.github.io/BOOTSTRAP_OC/)
+*   🖥️  See my portfolio at [My Portfolio](https://max62c.github.io/BOOTSTRAP_OC/)
 *   ✉️  You can contact me at [max62c@gmail.com](mailto:max62c@gmail.com)
 *   🚀  I'm currently working on [PHP](http://www.php.net/)
 *   🧠  I'm learning ANGULAR, HTML, CSS, BOOTSTRAP, SASS, TYPESCRIPT
