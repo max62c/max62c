@@ -9,8 +9,8 @@ I've been learning to code on my own for as long as the internet has existed, af
 *   🌍  I'm based in Orléans
 *   🖥️  See my portfolio at [My Portfolio](https://max62c.github.io/BOOTSTRAP_OC/)
 *   ✉️  You can contact me at [max62c@gmail.com](mailto:max62c@gmail.com)
-*   🚀  I'm currently working on [PHP](http://www.php.net/)
-*   🧠  I'm learning ANGULAR, HTML, CSS, BOOTSTRAP, SASS, TYPESCRIPT
+*   🚀  I'm currently working on [WORDPRESS]
+*   🧠  I'm learning ANGULAR, HTML, CSS, BOOTSTRAP, SASS, TYPESCRIPT, PHP, SYMFONY.
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I am autonomous, curious, motivated
 
