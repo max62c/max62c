@@ -32,16 +32,27 @@ I've been learning to code on my own for as long as the internet has existed, af
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
+
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/max62c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/maxime-cathelain-25191b138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/max62c"><img src="https://github-readme-stats.vercel.app/api?username=max62c&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="max62c's GitHub stats" /></a><a
-                      href="http://www.github.com/max62c"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=max62c&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/max62c"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=max62c&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/max62c" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max62c&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/max62c/Ma-Pizza" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=Ma-Pizza&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/max62c/voyage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=voyage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/max62c/blogbooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=blogbooks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/max62c/espace_admin" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=espace_admin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+                  <p align="left"> <a href="https://www.github.com/max62c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maxime-cathelain-25191b138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/max62c"><img src="https://github-readme-stats.vercel.app/api?username=max62c&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="max62c's GitHub stats" /></a>
+
+<a href="http://www.github.com/max62c"><img src="https://github-readme-streak-stats.herokuapp.com/?user=max62c&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/max62c"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=max62c&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/max62c" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max62c&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/max62c/Ma-Pizza" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=Ma-Pizza&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/max62c/voyage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=voyage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/max62c/blogbooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=blogbooks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/max62c/espace_admin" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=max62c&repo=espace_admin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
