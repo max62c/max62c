@@ -8,8 +8,8 @@ I've been learning to code on my own for as long as the internet has existed, af
 
 *   🌍  I'm based in Orléans
 *   ✉️  You can contact me at [max62c@gmail.com](mailto:max62c@gmail.com)
-*   🚀  I'm currently working on [WORDPRESS](http://wordpress.com/fr/)
-*   🧠  I'm learning ANGULAR, HTML, CSS, BOOTSTRAP, SASS, TYPESCRIPT, PHP, SYMFONY, WORDPRESS
+*   🚀  I'm currently working on [JAVA]
+*   🧠  I'm learning ANGULAR, HTML, CSS, BOOTSTRAP, SASS, TYPESCRIPT, PHP, SYMFONY, WORDPRESS, PYTHON, JAVA
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I am autonomous, curious, motivated### Skills 
 <p align="left">
