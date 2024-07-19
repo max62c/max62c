@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime CATHELAIN
 ========================================================================================================================================
 
-Web & Mobile Web Developer
+Python Developer
 --------------------------
 
 I've been learning to code on my own for as long as the internet has existed, after changing careers. I started with HTML, then CSS but I really found a passion for FullStack development.
 
 *   🌍  I'm based in Orléans
 *   ✉️  You can contact me at [max62c@gmail.com](mailto:max62c@gmail.com)
-*   🚀  I'm currently working on [JAVA]
+*   🚀  I'm currently working on [PYTHON]
 *   🧠  I'm learning ANGULAR, HTML, CSS, BOOTSTRAP, SASS, TYPESCRIPT, PHP, SYMFONY, WORDPRESS, PYTHON, JAVA
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I am autonomous, curious, motivated### Skills 
